@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6acbf2d.css",
+    "main.js": "/static/js/main.23fe7bca.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.png": "/static/media/logo.bca9b598e75caa4d3b6b.png",
+    "static/media/Vazir-Medium.ttf": "/static/media/Vazir-Medium.f8d0d6a242a2018a15ad.ttf",
+    "static/media/bg.jpg": "/static/media/bg.41e343d9374cb7df40ad.jpg",
+    "static/media/Vazir-Medium.woff": "/static/media/Vazir-Medium.ee46e840c71d6aaa609a.woff",
+    "static/media/Vazir-Medium.woff2": "/static/media/Vazir-Medium.0b91bcf1a5c2be83cce4.woff2",
+    "static/media/hero.svg": "/static/media/hero.35c9fa10ab51d56209cd5aa183ac13bb.svg",
+    "index.html": "/index.html",
+    "main.d6acbf2d.css.map": "/static/css/main.d6acbf2d.css.map",
+    "main.23fe7bca.js.map": "/static/js/main.23fe7bca.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6acbf2d.css",
+    "static/js/main.23fe7bca.js"
+  ]
+}
